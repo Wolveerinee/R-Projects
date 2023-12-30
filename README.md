@@ -6,6 +6,7 @@ Contents:
 
 Project1: ["Advanced Analysis and Visualization of the Iris dataset"]
 
+Project2: ["Spotify Data Analysis"]
 
 
 Feel free to explore the code, and if you have any questions or feedback, don't hesitate to reach out. I'm continuously working on refining and expanding my skills, and your insights would be valuable.
